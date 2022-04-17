@@ -1,0 +1,127 @@
+.img_wrapper_logo img{
+    width: 11%;
+    margin-left: 48px;
+}
+.img_wrapper_logo{
+text-align: center;
+}
+#navbarNavDropdown{
+    justify-content: center;
+}
+
+.nav_data{
+    margin-right: 22px;
+}
+.carousel_data{
+    text-align: center;
+}
+.main_wrapper{
+    background: #0072ff36;
+    padding: 48px;
+}
+.main_container{
+    padding-left: 0px !important;
+}
+.read_more img{
+    width: 100%;
+}
+.read_morebtn{
+    padding-left: 51px !important;
+    padding-right: 51px  !important;
+    padding-top: 29px  !important;
+    padding-bottom: 23px  !important;
+    border-radius: 0px  !important;
+    background: #ffc107 !important;
+    border: 0px !important;
+}
+
+.readmorewrapper{
+    width: 91%;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 56px;
+    padding: 13px;
+}
+.projects_data{
+    text-align: center;
+}
+.blackdata{
+    background: #3e3e3e;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.project_data{
+    color: #ffc107;
+}
+.project_no{
+    color: #fff;
+    margin-top: 42px;
+    font-size: 33px;
+    font-weight: 100;
+}
+.read_more_container{
+      border: 1px solid black;
+}
+
+.completedcard{
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.completed_text{
+    text-align: right;
+}
+
+.company_logo{
+    width: 36%;
+}
+
+.company_logo img{
+    width: 100%;
+}
+.img_data_new ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.card_company_logo{
+    margin-top: 24px;
+}
+.main_card_logo img{
+width: 100%;
+}
+.learn_more_btn .data1 a{
+padding-top: 9px;
+    padding-bottom: 9px;
+    border: 0px;
+    border-radius: 0px;
+    background: #8080805c;
+    color: black;
+}
+
+.learn_more_btn .data2 a{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border: 0px;
+    border-radius: 0px;
+    padding-left: 28px;
+    padding-right: 33px;
+    background: #bfa207;
+    color: #fff;
+}
+.data2{
+    margin-left: 41px;
+}
+.company_detail_demo{
+    margin-top: 73px;
+}
+.completed_span{
+    background: #ab9109;
+    color: #fff;
+    padding: 6px;
+    border-radius: 0px 0px 0px 11px;
+}
+
+.showmore_btn{
+    text-align: center;
+}
